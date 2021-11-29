@@ -1,0 +1,6 @@
+
+.vs
+bin/
+obj/
+packages/
+UsingTimer.sln.DotSettings.user

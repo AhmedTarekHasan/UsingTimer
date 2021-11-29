@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerApp", "TimerApp\TimerApp.csproj", "{F5388610-0AA5-4F92-B785-1F650A5767FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterTimerApp", "BetterTimerApp\BetterTimerApp.csproj", "{2714AB17-851B-4BE3-B9D2-557B023A5EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterTimerApp.Tests", "BetterTimerApp.Tests\BetterTimerApp.Tests.csproj", "{43E25B54-8272-479D-AE00-80A871EA34FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5388610-0AA5-4F92-B785-1F650A5767FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5388610-0AA5-4F92-B785-1F650A5767FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5388610-0AA5-4F92-B785-1F650A5767FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5388610-0AA5-4F92-B785-1F650A5767FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2714AB17-851B-4BE3-B9D2-557B023A5EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2714AB17-851B-4BE3-B9D2-557B023A5EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2714AB17-851B-4BE3-B9D2-557B023A5EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2714AB17-851B-4BE3-B9D2-557B023A5EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E25B54-8272-479D-AE00-80A871EA34FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E25B54-8272-479D-AE00-80A871EA34FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E25B54-8272-479D-AE00-80A871EA34FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E25B54-8272-479D-AE00-80A871EA34FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57C6B8D-293E-44F6-ADCE-B13EA225132A}
+	EndGlobalSection
+EndGlobal
